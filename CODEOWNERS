@@ -1,2 +1,12 @@
 # Global repo owner
-Procfile @kostas-bourmas
+# 
+# # CI scripts & beanstalk envs
+# *.config @kostas-bourmas
+# *.groovy @kostas-bourmas
+# .elasticbeanstalk @kostas-bourmas
+# *.conf @kostas-bourmas
+# *.sh @kostas-bourmas
+# *.yml @kostas-bourmas
+# Jenkinsfile @kostas-bourmas
+# Dockerfile @kostas-bourmas
+# Procfile @kostas-bourmas
