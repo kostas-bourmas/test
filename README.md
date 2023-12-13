@@ -1,2 +1,2 @@
 # test
-This is a testing READNE.md file
+This is a testing README.md file
