@@ -1,5 +1,5 @@
 # Global repo owner
- 
+# Lala 
 # CI scripts & beanstalk envs
 *.config @kostas-bourmas
 *.groovy @kostas-bourmas
@@ -10,5 +10,3 @@
 Jenkinsfile @kostas-bourmas
 Dockerfile @kostas-bourmas
 Procfile @kostas-bourmas
-
-v2
